@@ -1,0 +1,12 @@
+{
+  "name": "Pi-Time-Game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/skosman/Pi-Time-Game.git",
+  "author": "Samantha Kosman <skosman@benevity.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "phaser": "^3.18.1"
+  }
+}

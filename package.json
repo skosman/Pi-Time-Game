@@ -6,7 +6,7 @@
   "author": "Samantha Kosman <skosman@benevity.com>",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "phaser": "^3.18.1"
   }
 }
